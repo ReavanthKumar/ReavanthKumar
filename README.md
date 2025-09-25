@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm R Reavanth Kumar  
 
-<!--
-**ReavanthKumar/ReavanthKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a **4th-year Computer Science student** specializing in **Bioinformatics** at **Vellore Institute of Technology (VIT)**.  
+💡 Passionate about bridging **biology and computer science** through **machine learning and deep learning**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently learning **Deep Learning models**  
+- 🧬 Working on a **Leukemia Classification Project**  
+- 💻 Skilled in **Web Programming, Machine Learning, and Deep Learning**  
+- 📜 Have relevant **experience and certifications** in these domains  
+- 🎮 I love **Anime and Games**  
+- 🙋 Pronouns: **He/Him**  
+- 🔱 Fun Fact: My name *Reavanth* is another name for **Lord Shiva**  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** Python, R, JavaScript, C++  
+- **Frameworks & Tools:** TensorFlow, PyTorch, Scikit-Learn, React, Node.js, Express.js  
+- **Databases:** PostgreSQL, MySQL  
+- **Others:** Git, Docker, Azure, Bioinformatics Tools  
+
+---
+
+## 📌 Featured Project  
+### 🔬 Leukemia Classification  
+A deep learning project focused on classifying **bone marrow images** into stages of leukemia progression.  
+- Using **CNN architectures (ResNet, DenseNet, EfficientNet, etc.)**  
+- Dataset: [Kaggle – Leukemia Dataset](https://www.kaggle.com/datasets/mehradaria/leukemia)  
+- Goal: Assist in early diagnosis and research in **computational oncology**  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/r-reavanth-kumar/)  
+- 📧 Email: **reavanth2003@gmail.com**  
+
+---
+
+⭐️ *“Code + Biology + Curiosity = Discovery.”*  
