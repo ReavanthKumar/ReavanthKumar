@@ -16,6 +16,9 @@
 
 ---
 
+[![Banner](ProfileBanner.png)](https://www.linkedin.com/in/r-reavanth-kumar/)
+
+---
 ## 🛠️ Tech Stack  
 - **Languages:** Python, R, JavaScript, C++  
 - **Frameworks & Tools:** TensorFlow, PyTorch, Scikit-Learn, React, Node.js, Express.js  
