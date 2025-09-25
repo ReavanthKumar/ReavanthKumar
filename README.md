@@ -34,8 +34,8 @@ A deep learning project focused on classifying **bone marrow images** into stage
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/r-reavanth-kumar/)  
-- 📧 Email: **reavanth2003@gmail.com**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-reavanth-kumar/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] **reavanth2003@gmail.com**  
 
 ---
 
