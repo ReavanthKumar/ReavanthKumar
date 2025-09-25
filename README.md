@@ -3,6 +3,7 @@
 🎓 I’m a **4th-year Computer Science student** specializing in **Bioinformatics** at **Vellore Institute of Technology (VIT)**.  
 💡 Passionate about bridging **biology and computer science** through **machine learning and deep learning**.  
 
+[![Banner](ProfileBanner.png)](https://www.linkedin.com/in/r-reavanth-kumar/)
 ---
 
 ## 🚀 About Me  
@@ -13,10 +14,6 @@
 - 🎮 I love **Anime and Games**  
 - 🙋 Pronouns: **He/Him**  
 - 🔱 Fun Fact: My name *Reavanth* is another name for **Lord Shiva**  
-
----
-
-[![Banner](ProfileBanner.png)](https://www.linkedin.com/in/r-reavanth-kumar/)
 
 ---
 ## 🛠️ Tech Stack  
